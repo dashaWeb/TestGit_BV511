@@ -8,3 +8,11 @@ int main()
 }
 
 
+/*
+git
+    git init
+    git add .
+    git commit -m "TEXT"
+    git status 
+
+*/

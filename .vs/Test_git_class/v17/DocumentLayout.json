@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DEVOPS\\Desktop\\Class\\Test_git_class\\",
+  "WorkspaceRootPath": "C:\\Users\\DEVOPS\\Desktop\\Home\\TestGit_BV511\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{043E8980-9176-4BD2-A48E-193212FF6D12}|Test_git_class\\Test_git_class.vcxproj|C:\\Users\\DEVOPS\\Desktop\\Class\\Test_git_class\\Test_git_class\\Test_git_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{043E8980-9176-4BD2-A48E-193212FF6D12}|Test_git_class\\Test_git_class.vcxproj|C:\\Users\\DEVOPS\\Desktop\\Home\\TestGit_BV511\\Test_git_class\\Test_git_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{043E8980-9176-4BD2-A48E-193212FF6D12}|Test_git_class\\Test_git_class.vcxproj|solutionrelative:Test_git_class\\Test_git_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Test_git_class.cpp",
-              "DocumentMoniker": "C:\\Users\\DEVOPS\\Desktop\\Class\\Test_git_class\\Test_git_class\\Test_git_class.cpp",
+              "DocumentMoniker": "C:\\Users\\DEVOPS\\Desktop\\Home\\TestGit_BV511\\Test_git_class\\Test_git_class.cpp",
               "RelativeDocumentMoniker": "Test_git_class\\Test_git_class.cpp",
-              "ToolTip": "C:\\Users\\DEVOPS\\Desktop\\Class\\Test_git_class\\Test_git_class\\Test_git_class.cpp",
+              "ToolTip": "C:\\Users\\DEVOPS\\Desktop\\Home\\TestGit_BV511\\Test_git_class\\Test_git_class.cpp",
               "RelativeToolTip": "Test_git_class\\Test_git_class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-06T15:39:25.109Z",
               "EditorCaption": ""
